@@ -3,13 +3,8 @@ package com.creativenavigation.shoppymenu.customfonts;
 import android.content.Context;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
-import android.widget.RadioButton;
 
-/**
- * Created by one on 3/12/15.
- */
-public class MyRadioButton extends RadioButton {
-
+public class MyRadioButton extends android.support.v7.widget.AppCompatRadioButton {
     public MyRadioButton(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
         init();
