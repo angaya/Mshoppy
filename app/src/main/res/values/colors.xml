@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#Ea495F</color>
+    <color name="drovercolour">#6E6E6D</color>
+    <color name="cattextcolour">#FFFFFF</color>
+    <color name="category_textcolour">#404547</color>
+    <color name="divider">#677174</color>
+    <color name="droverbackground">#29363b</color>
+    <color name="droverbackground1">#354348</color>
+</resources>
