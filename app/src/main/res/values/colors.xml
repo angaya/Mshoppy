@@ -9,4 +9,8 @@
     <color name="divider">#677174</color>
     <color name="droverbackground">#29363b</color>
     <color name="droverbackground1">#354348</color>
+    <color name="Tex">#404547</color>
+    <color name="textSub">#76818a</color>
+    <color name="colordevider">#f1f2f4</color>
+    <color name="light_green">#1bac94</color>
 </resources>

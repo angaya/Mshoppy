@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="/home/alex/Documents/Code/mshopy/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/home/alex/Documents/Code/mshopy/app/build/intermediates/pre-dexed/debug/com.daimajia.slider-library-1.1.5_9c6143e79f8b8b97269d986cc052fa2a12c56e39.jar" />
+    </item>
+    <item
         jar="/home/alex/Documents/Code/mshopy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="false"
         revision="23.0.2"
