@@ -18,10 +18,14 @@
 
     <!--  menu layout topmargin-->
     <dimen name="menu_layouttopmargin">10dp</dimen>
+    <dimen name="textlist">16dp</dimen>
 
 
     <!--  menu  cat img topmargin-->
     <dimen name="menucat_imgtopmargin">11dp</dimen>
+
+    <dimen name="text">15dp</dimen>
+    <dimen name="textsub">14dp</dimen>
 
 
 
